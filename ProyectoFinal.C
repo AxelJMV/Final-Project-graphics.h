@@ -1,6 +1,6 @@
 #include <graphics.h> // Encabezado con declaraciones de gráficos
 #include <stdio.h>
-#include <conio.h> // Para el uso de kbhit()
+#include <conio.h> 
 #include <stdlib.h> // Para el uso de random()
 #include <dos.h> // Para el uso de delay
 #include <bios.h>
